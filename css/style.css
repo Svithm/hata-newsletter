@@ -1,0 +1,108 @@
+table {
+    margin: 0 auto;
+    font-family: "Arial";
+}
+.top-td {
+    width: 200px; 
+    background-color: #dcdce5;
+}
+.second-td {
+    width: 600px;
+}
+.other-td {
+    width: 200px; 
+    background-color: #f5f5f5;
+}
+.logo {
+    /* display: inline-block; */
+    float: left;
+    padding: 14px 0 14px 30px;
+}
+.info-top {
+    margin-top: 26px; 
+    padding-right: 30px; 
+    float: right;
+    text-align: right;
+}
+.tel-top {
+    font-size: 16px;
+    line-height: 24px;
+    color: #25252c;
+    font-weight: bold;
+}
+.tel-kontakt {
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-style: italic;
+}
+h2 {
+    padding-left: 30px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #24242b;
+    font-weight: bold;
+}
+p {
+    padding-left: 30px;
+    font-size: 14px;
+    line-height: 24px;
+    color: #666666;
+}
+.button-about {
+    display: inline-block;
+    margin-left: 30px;
+    margin-bottom: 36px;
+    padding: 16px 20px;
+    color: #fff;
+    border-radius: 26px;
+    background-color: #fd8300;
+    text-decoration: none;
+}
+.table-2 {
+    width: 600px; 
+    background-color: #ededf5;
+}
+.table-2 td {
+    text-align: center;
+}
+.table-2-img {
+    padding-top: 36px;
+   
+}
+.table-2 h4 {
+    margin: 26px 0 0 0;
+    padding: 0 0 0 16px;
+    font-size: 14px;
+    line-height: 18px;
+    color: #24242b;
+    font-weight: bold;
+}
+.table-2 p {
+    display: inline-block;
+    margin: 0;
+    padding: 0 0 32px 16px;
+    width: 166px;
+    font-size: 13px;
+    line-height: 18px;
+    color: #666;
+}
+.cotage-1 {
+    padding-top: 24px;
+    padding-left: 30px;
+}
+.montreal {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1f1f56;
+    font-weight: bold;
+}
+.montreal-p {
+    display: inline-block;
+    font-size: 13px;
+    line-height: 19px;
+    color: #9999a6;
+}
