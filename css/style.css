@@ -36,22 +36,27 @@ table {
     color: #9999a6;
     font-style: italic;
 }
-h2 {
+.table-1 {
+    width: 600px;
     padding-left: 30px;
+    padding-right: 30px;
+}
+h2 {
+    margin-top: 32px;
+    margin-bottom: 18px;
     font-size: 24px;
-    line-height: 24px;
     color: #24242b;
     font-weight: bold;
 }
 p {
-    padding-left: 30px;
+    margin-top: 0;
+    margin-bottom: 20px;
     font-size: 14px;
     line-height: 24px;
     color: #666666;
 }
 .button-about {
     display: inline-block;
-    margin-left: 30px;
     margin-bottom: 36px;
     padding: 16px 20px;
     color: #fff;
@@ -87,22 +92,52 @@ p {
     line-height: 18px;
     color: #666;
 }
-.cotage-1 {
-    padding-top: 24px;
-    padding-left: 30px;
+.table-cotage {
+    width: 600px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
-.montreal {
-    display: inline-block;
-    vertical-align: top;
-    padding-top: 20px;
+.table-cotage td {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.table-cotage h3 {
     font-size: 16px;
     line-height: 24px;
     color: #1f1f56;
     font-weight: bold;
 }
-.montreal-p {
-    display: inline-block;
+.table-cotage p {
     font-size: 13px;
     line-height: 19px;
     color: #9999a6;
+}
+.table-sale {
+    width: 600px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-image: url(../img/hata-newsletter\ \(1\).jpg);
+    background-repeat: repeat;
+    text-align: center;
+    font-family: "Arial";
+}
+.table-sale h2 {
+    font-size: 24px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.table-sale p {
+    margin: 0 auto;
+    width: 392px;
+    font-size: 13px;
+    line-height: 20px;
+    color: #fff;
+    
 }
