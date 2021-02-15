@@ -29,8 +29,11 @@ table {
 .tel-top {
     font-size: 16px;
     line-height: 24px;
-    color: #25252c;
     font-weight: bold;
+}
+.tel-top a {
+    text-decoration: none;
+    color: #25252c;
 }
 .tel-kontakt {
     font-size: 13px;
@@ -40,6 +43,8 @@ table {
 }
 .table-1 {
     width: 600px;
+}
+.table-1 td {
     padding-left: 30px;
     padding-right: 30px;
 }
